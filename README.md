@@ -11,11 +11,12 @@ Delivery partners rely heavily on daily earnings, and unexpected disruptions can
 Gig workers, especially food delivery partners from platforms like Swiggy and Zomato, depend on continuous work availability to earn their daily income.
 
 However, external factors such as:
-- Heavy rainfall
-- Floods
-- Extreme heat
-- Pollution alerts
-- Strikes or city restrictions
+
+- Heavy rainfall  
+- Floods  
+- Extreme heat  
+- Pollution alerts  
+- Strikes or city restrictions  
 
 can reduce or completely stop deliveries, causing significant income loss. Currently, gig workers have limited protection against these unpredictable events.
 
@@ -26,16 +27,32 @@ GigGuardian AI provides an intelligent income protection platform for gig worker
 
 The system uses AI models and external data sources to detect disruptions in real time. When a disruption event exceeds predefined thresholds, the platform automatically triggers an insurance claim and processes instant payouts.
 
+This parametric insurance model ensures that workers receive financial protection without lengthy claim processes.
+
+---
+
+## Weekly Premium Model
+GigGuardian AI follows a **weekly micro-insurance pricing model** designed specifically for gig workers.
+
+The premium is dynamically calculated based on:
+
+- Historical weather risks
+- Pollution levels in the worker’s operating area
+- Frequency of disruptions in that location
+- Delivery demand patterns
+
+Workers can activate coverage for a specific week by paying a small premium, ensuring income protection during high-risk periods.
+
 ---
 
 ## Key Features
-- Verified gig worker registration
-- AI-based disruption risk analysis
-- Delivery demand heatmap
-- Gig Safety Index for risk awareness
-- Parametric insurance claim automation
-- Fraud detection using AI
-- Instant payout simulation
+- Verified gig worker registration  
+- AI-based disruption risk analysis  
+- Delivery demand heatmap visualization  
+- Gig Safety Index for risk awareness  
+- Parametric insurance claim automation  
+- Fraud detection using AI  
+- Instant payout simulation  
 
 ---
 
@@ -60,7 +77,15 @@ The system uses AI models and external data sources to detect disruptions in rea
 
 ---
 
+## AI Risk Prediction
+GigGuardian AI uses machine learning models to analyze historical disruption data such as weather patterns, pollution levels, and delivery demand.
+
+These models help estimate disruption probability in specific locations and enable dynamic risk assessment and premium adjustment.
+
+---
+
 ## Project Structure
+
 ```
 GigGuardian-AI
 │
@@ -78,12 +103,21 @@ GigGuardian-AI
 └ demo-video
     └ video-link.txt
 ```
+---
 
-## System Workflow
+## System Workflow Diagram
+
 ![Workflow](docs/workflow-diagram.png)
 
+---
+
 ## System Architecture
+
 ![Architecture](docs/architecture-diagram.png)
 
+---
+
 ## Expected Impact
-GigGuardian AI aims to provide financial stability for gig workers by protecting them from income loss caused by unpredictable external disruptions. This system can improve the resilience of the gig economy while ensuring fair compensation for workers.
+GigGuardian AI aims to provide financial stability for gig workers by protecting them from income loss caused by unpredictable external disruptions.
+
+By automating risk detection, claim triggering, and payouts, the platform reduces financial uncertainty for gig workers and strengthens the resilience of the gig economy.
