@@ -8,7 +8,7 @@ Delivery partners rely heavily on daily earnings, and unexpected disruptions can
 ---
 
 ## Problem Statement
-Gig workers, especially delivery partners from platforms like Swiggy, Zomato, Zepto, and Amazon, depend on continuous work availability to earn their daily income.
+Gig workers, especially food delivery partners from platforms like Swiggy and Zomato, depend on continuous work availability to earn their daily income.
 
 However, external factors such as:
 - Heavy rainfall
