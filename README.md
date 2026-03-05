@@ -61,24 +61,23 @@ The system uses AI models and external data sources to detect disruptions in rea
 ---
 
 ## Project Structure
-
+```
 GigGuardian-AI
 │
 ├ README.md
 │
 ├ docs
-│ ├ architecture-diagram.png
-│ └ workflow-diagram.png
+│   ├ architecture-diagram.png
+│   └ workflow-diagram.png
 │
 ├ ui-design
-│ ├ dashboard.png
-│ ├ demand-heatmap.png
-│ └ claim-notification.png
+│   ├ dashboard.png
+│   ├ demand-heatmap.png
+│   └ claim-notification.png
 │
 └ demo-video
-└ video-link.txt
-
----
+    └ video-link.txt
+```
 
 ## Expected Impact
 GigGuardian AI aims to provide financial stability for gig workers by protecting them from income loss caused by unpredictable external disruptions. This system can improve the resilience of the gig economy while ensuring fair compensation for workers.
