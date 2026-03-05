@@ -79,5 +79,11 @@ GigGuardian-AI
     └ video-link.txt
 ```
 
+## System Workflow
+![Workflow](docs/workflow-diagram.png)
+
+## System Architecture
+![Architecture](docs/architecture-diagram.png)
+
 ## Expected Impact
 GigGuardian AI aims to provide financial stability for gig workers by protecting them from income loss caused by unpredictable external disruptions. This system can improve the resilience of the gig economy while ensuring fair compensation for workers.
