@@ -118,6 +118,7 @@ GigGuardian-AI
 ---
 
 ## Expected Impact
+
 GigGuardian AI aims to provide financial stability for gig workers by protecting them from income loss caused by unpredictable external disruptions.
 
 By automating risk detection, claim triggering, and payouts, the platform reduces financial uncertainty for gig workers and strengthens the resilience of the gig economy.
